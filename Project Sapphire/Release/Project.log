@@ -1,0 +1,61 @@
+﻿Build started 6/19/2022 3:24:50 PM.
+     1>Project "C:\Users\addia\Documents\Visual Studio 2013\Projects\Sapphire D2Non Core 2020\Project Sapphire\Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HACK_EXPORTS /D _WINDLL /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Threads.cpp
+         Threads.cpp
+     1>Threads.cpp(1856): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\HF2Client.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HF2Client.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\addia\Documents\Visual Studio 2013\Projects\Sapphire D2Non Core 2020\Project Sapphire\Release\HF2Client.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"Release\HF2Client.lib" /MACHINE:X86 /DLL "Release\AI Common.obj"
+         "Release\AI Move.obj"
+         Release\Aim.obj
+         "Release\Common Math.obj"
+         Release\Configuration.obj
+         "Release\Copy and Paste.obj"
+         "Release\D2 Stdio.obj"
+         "Release\D2 Stubs.obj"
+         Release\Design.obj
+         Release\Enchant.obj
+         Release\Escape.obj
+         "Release\Game Filter.obj"
+         Release\Godmode.obj
+         Release\Hack.obj
+         Release\Handlers.obj
+         Release\Helpers.obj
+         "Release\HF2 CDKey.obj"
+         "Release\HF2 Data.obj"
+         "Release\HF2 Draw.obj"
+         "Release\HF2 ExtLevels.obj"
+         "Release\HF2 Handlers.obj"
+         "Release\HF2 Helpers.obj"
+         "Release\HF2 Info.obj"
+         "Release\HF2 KeyItems.obj"
+         "Release\HF2 Ladder.obj"
+         "Release\HF2 Quest.obj"
+         "Release\HF2 Xinput.obj"
+         Release\Item.obj
+         Release\Message.obj
+         Release\Miscellaneous.obj
+         Release\Offset.obj
+         "Release\Packet Received.obj"
+         "Release\Packet Sent.obj"
+         "Release\Patch Stubs.obj"
+         Release\Potion.obj
+         Release\Reveal.obj
+         Release\Rogue.obj
+         Release\Skill.obj
+         Release\Speed.obj
+         "Release\String Hash.obj"
+         Release\Teleport.obj
+         Release\Threads.obj
+         Release\Travel.obj
+         Release\Unit.obj
+         Release\Vectors.obj
+         Release\Winamp.obj
+         Project.vcxproj -> C:\Users\addia\Documents\Visual Studio 2013\Projects\Sapphire D2Non Core 2020\Project Sapphire\Release\HF2Client.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Release\HF2Client.dll;#2" /manifest Release\HF2Client.dll.intermediate.manifest
+     1>Done Building Project "C:\Users\addia\Documents\Visual Studio 2013\Projects\Sapphire D2Non Core 2020\Project Sapphire\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.71

@@ -1,0 +1,31 @@
+***** LOADING HELLFIRE II *****
+
+<----------------------------------------------->
+
+		HF2 GUI Plugin library with PlugY 11.02
+		version 2.0
+
+
+<---------- Starting Hellire II Plugins ---------->
+
+
+***** Get D2 Modules address and version *****
+Game.exe loaded at:	00400000 (1.13d)
+D2Client.dll loaded at:	6FAB0000 (1.13d)
+D2CMP.dll loaded at:	6FE10000 (1.13d)
+D2Common.dll loaded at:	6FD50000 (1.13d)
+D2Game.dll loaded at:	02E00000 (1.13d)
+D2gfx.dll loaded at:	6FA80000 (1.13d)
+D2Lang.dll loaded at:	00270000 (1.13d)
+D2Launch.dll loaded at:	6FA40000 (1.13d)
+D2Net.dll loaded at:	02240000 (1.13d)
+D2Win.dll loaded at:	6F8E0000 (1.13d)
+Fog.dll loaded at:	6FF50000 (1.13d)
+Storm.dll loaded at:	6FBF0000 (1.13d)
+
+
+***** PARAMETERS *****
+
+Can't open parameters files: Default values used.
+
+
